@@ -2,6 +2,7 @@
     "name": "vector88/cachefs",
     "description": "CacheFS for PHP",
     "type": "library",
+    "license": "MIT",
     "authors": [
         {
             "name": "Daniel 'Vector' Kerr",
