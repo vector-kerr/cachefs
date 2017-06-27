@@ -1,0 +1,19 @@
+{
+    "name": "vector88/cachefs",
+    "description": "CacheFS for PHP",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Daniel 'Vector' Kerr",
+            "email": "vector.kerr@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Vector88\\": "src/Vector88"
+        }
+    }
+}
