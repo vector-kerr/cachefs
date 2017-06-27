@@ -51,7 +51,7 @@ final class CacheFS {
      */
     public static function register()
     {
-        stream_wrapper_register(self::PROTOCOL, 'Shpasser\GaeSupportLumen\Storage\CacheFs');
+        stream_wrapper_register(self::PROTOCOL, 'Vector88\CacheFS\CacheFS');
     }
 
     /**
